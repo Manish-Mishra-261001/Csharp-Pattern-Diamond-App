@@ -1,0 +1,15 @@
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\bin\Debug\net9.0\DiamondApp.exe
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\bin\Debug\net9.0\DiamondApp.deps.json
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\bin\Debug\net9.0\DiamondApp.runtimeconfig.json
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\bin\Debug\net9.0\DiamondApp.dll
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\bin\Debug\net9.0\DiamondApp.pdb
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.AssemblyInfoInputs.cache
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.AssemblyInfo.cs
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.csproj.CoreCompileInputs.cache
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.dll
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\refint\DiamondApp.dll
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.pdb
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.genruntimeconfig.cache
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\ref\DiamondApp.dll
+D:\P\Dev\Pattern\Dotnet\DiamondApp\DiamondApp\obj\Debug\net9.0\DiamondApp.sourcelink.json
