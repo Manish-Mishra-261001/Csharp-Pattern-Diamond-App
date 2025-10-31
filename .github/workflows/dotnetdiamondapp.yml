@@ -25,4 +25,4 @@ jobs:
       run: dotnet build --no-restore
 
     - name: Run Program
-      run: echo "5" | dotnet run --no-build
+      run: echo "10" | dotnet run --no-build
