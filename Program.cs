@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter the number of rows for the diamond (half): ");
+        Console.Write("Enter the number of rows for the diamond (half): \n");
         if (!int.TryParse(Console.ReadLine(), out int n) || n <= 0)
         {
             Console.WriteLine("Please enter a positive integer.");
